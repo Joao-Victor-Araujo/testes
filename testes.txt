@@ -1,9 +1,7 @@
 Tudo começa do começo.
-<<<<<<< HEAD
 tudo começa do inicio.
-=======
 tudo começa do inicio.
 nada.
 "Não é o rosto que faz de alguém um mostro. São as escolhas que elas fazem para suas vidas".
 Naruto Uzumaki
->>>>>>> 96993c269839006dad7b57d90a78e2b1fcb6ebe8
+
